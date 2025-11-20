@@ -27,6 +27,14 @@ Projeto criado para demonstrar os conhecimentos que venho praticando sobre autom
 
 ---
 
+### Automação Cypress com Page Object Model - SauceDemo
+
+Nesse projeto, utilizei o padrão **Page Object Model** para automatizar cenários de testes da aplicação SauceDemo, que simula funcionalidades de um e-commerce.
+
+👉 [Link do repositório](https://github.com/cmath0/cypress-saucedemo-automation)
+
+---
+
 ### 🎓 **Projeto do TCC – Engenharia de Software (MBA)**
 API REST desenvolvida em **Java + Spring Boot**, simulando funcionalidades de um e-commerce. 
 
