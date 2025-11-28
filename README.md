@@ -35,6 +35,14 @@ Nesse projeto, utilizei o padrão **Page Object Model** para automatizar cenári
 
 ---
 
+### Automação Playwright - Plataforma Zombie+
+
+Repositório do projeto de testes automatizados do sistema Zombie Plus, construído no curso Playwright Zombie Edition.
+
+👉 [Link do repositório](https://github.com/cmath0/playwright-zombieplus-automation)
+
+---
+
 ### 🎓 **Projeto do TCC – Engenharia de Software (MBA)**
 API REST desenvolvida em **Java + Spring Boot**, simulando funcionalidades de um e-commerce. 
 
