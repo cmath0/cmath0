@@ -11,22 +11,6 @@ Por aqui, você encontrará:
 
 ## ⭐ Projetos em Destaque
 
-### 🤖 **Automação de Testes com Cypress**
-Projeto criado para demonstrar os conhecimentos que venho praticando sobre automação de testes com Cypress.  
-- Localizar, digitar e clicar em elementos de diferentes tipos
-- Fazer asserções de resultados esperados
-- Criar comandos customizados
-- Upload de arquivos
-- Links que abrem em outra aba do navegador
-- Configuração de variáveis de ambiente
-- Fazer requisições HTTP
-- Integrar testes em um pipeline de CI com Github Actions
-- E outras coisinhas!
-
-👉 [Link do repositório](https://github.com/cmath0/curso-cypress-do-zero-a-nuvem)
-
----
-
 ### Automação Cypress com Page Object Model - SauceDemo
 
 Nesse projeto, utilizei o padrão **Page Object Model** para automatizar cenários de testes da aplicação SauceDemo, que simula funcionalidades de um e-commerce.
@@ -40,6 +24,14 @@ Nesse projeto, utilizei o padrão **Page Object Model** para automatizar cenári
 Repositório do projeto de testes automatizados do sistema Zombie Plus, construído no curso Playwright Zombie Edition.
 
 👉 [Link do repositório](https://github.com/cmath0/playwright-zombieplus-automation)
+
+---
+
+### Automação Robot Framework - Plataforma Smartbit
+
+Repositório do projeto de testes automatizados do sistema Smartbit (web + mobile), implementado durante o curso Universo Robot Framework.
+
+👉 [Link do repositório](https://github.com/cmath0/robot-smartbit-automation)
 
 ---
 
