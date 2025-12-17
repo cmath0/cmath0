@@ -3,8 +3,8 @@ Olá! Aqui é o Matheus Cardoso :)
 Sou um Engenheiro de Software apaixonado por Qualidade.
 
 Por aqui, você encontrará:
-- Projetos de desenvolvimento em Java (minha principal linguagem)
 - Projetos de automação de testes
+- Projetos de desenvolvimento em Java
 - Alguns repositórios com anotações de estudo
 
 ---
